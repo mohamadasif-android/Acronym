@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Acronyms</string>
+
+    <string name="search_query_hint">Enter search here…</string>
+    <string name="error_no_internet">No internet available, please check your connected WIFi or Data</string>
+    <string name="error_no_network">No network available, please check your WiFi or Data connection</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="data_unavailable">Data not available</string>
+    <string name="empty_result">No result found</string>
+    <string name="enter_valid_acronym">Please enter valid acronym</string>
+
+</resources>
